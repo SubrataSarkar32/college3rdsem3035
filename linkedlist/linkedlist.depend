@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1532961950 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlist\access.c
+
+1532973563 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlist\deletell.c
+	<stdio.h>
+	<stdlib.h>
+
+1533010165 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlist\insertll.c
+	<stdio.h>
+	<stdlib.h>
+
+1533009015 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headl.h"
+	<stdlib.h>
+
+1533008172 f:\text\gcect\3rd sem\subratasarkar32\linkedlist\headl.h
+

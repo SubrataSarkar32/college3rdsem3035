@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1533556967 source:f:\text\gcect\3rd sem\subratasarkar32\stack\stack\delrea.c
+	<stdio.h>
+	<stdlib.h>
+
+1533556900 source:f:\text\gcect\3rd sem\subratasarkar32\stack\stack\insbeg.c
+	<stdio.h>
+	<stdlib.h>
+
+1533556669 source:f:\text\gcect\3rd sem\subratasarkar32\stack\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedl.h"
+	<stdlib.h>
+
+1533492087 f:\text\gcect\3rd sem\subratasarkar32\stack\stack\linkedl.h
+

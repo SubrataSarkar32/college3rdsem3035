@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1534176057 source:f:\text\gcect\3rd sem\subratasarkar32\queue\linkedlist\queue\delrea.c
+	<stdio.h>
+	<stdlib.h>
+
+1534174514 source:f:\text\gcect\3rd sem\subratasarkar32\queue\linkedlist\queue\insert.c
+
+1534175462 source:f:\text\gcect\3rd sem\subratasarkar32\queue\linkedlist\queue\insbeg.c
+	<stdio.h>
+	<stdlib.h>
+
+1534176230 source:f:\text\gcect\3rd sem\subratasarkar32\queue\linkedlist\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedl.h"
+	<stdlib.h>
+
+1534175296 f:\text\gcect\3rd sem\subratasarkar32\queue\linkedlist\queue\linkedl.h
+

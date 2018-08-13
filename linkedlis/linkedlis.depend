@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1533222625 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\delbeg.c
+	<stdio.h>
+	<stdlib.h>
+
+1533222776 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\delk.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedl.h"
+
+1533222757 f:\text\gcect\3rd sem\subratasarkar32\linkedlis\linkedl.h
+
+1533222802 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\delrea.c
+	<stdio.h>
+	<stdlib.h>
+
+1533222814 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\insbeg.c
+	<stdio.h>
+	<stdlib.h>
+
+1533222842 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\insk.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedl.h"
+
+1533222851 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\insrea.c
+	<stdio.h>
+	<stdlib.h>
+
+1533222975 source:f:\text\gcect\3rd sem\subratasarkar32\linkedlis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedl.h"
+	<stdlib.h>
+

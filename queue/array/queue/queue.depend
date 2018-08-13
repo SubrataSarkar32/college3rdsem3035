@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1533558399 source:f:\text\gcect\3rd sem\subratasarkar32\queue\array\queue\deletearray.c
+	<stdio.h>
+
+1533558815 source:f:\text\gcect\3rd sem\subratasarkar32\queue\array\queue\insertarray.c
+	<stdio.h>
+
+1534172143 source:f:\text\gcect\3rd sem\subratasarkar32\queue\array\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1532627139 f:\text\gcect\3rd sem\subratasarkar32\queue\array\queue\array.h
+
