@@ -3,11 +3,12 @@
 int insk(int max,int* a,int element,int len,int p)
 {
 	int i=0;
-	if(max!=len)
+	p-=1;
+	if(max!=len && p<=len+1)
 	{
-		for (i=len;i>p;i--)
+		for (i=len+1;i>=p;i--)
     	{
-		     a[i+1]=a[i];
+		     a[i]=a[i-1];
     	}
     	a[p]=element;
     	len+=1;

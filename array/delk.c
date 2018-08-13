@@ -2,7 +2,7 @@
 int delk(int max,int* a,int len,int p)
 {
 	int i=0;
-	if(len>=0)
+	if(len>=0 && p<=len)
 	{
 		printf("deleted\n");
 		for (i=p;i!=len-1;i++)
