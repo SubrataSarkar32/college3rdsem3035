@@ -112,7 +112,6 @@ int main()
                    {
                      printf("%d ",pos->p);
                      pos=pos->next;
-                     i++;
                    }
                 }
                 printf("\n");

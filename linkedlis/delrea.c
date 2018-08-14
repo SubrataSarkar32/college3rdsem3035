@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//not working as expected
 typedef struct ele
 {
     struct ele* next;

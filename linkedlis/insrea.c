@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//not working as expectd
 typedef struct ele
 {
     struct ele* next;
@@ -28,6 +29,7 @@ struct ele* insrea(struct ele* head,struct ele* rear,int element)
             rear->next=pos;
             pos->next=NULL;
             pos->p=element;
+            rear=pos;
             return pos;
         }
     }

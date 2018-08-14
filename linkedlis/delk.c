@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include "linkedl.h"
+//not working as expected
 typedef struct ele
 {
     struct ele* next;
