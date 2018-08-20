@@ -33,7 +33,7 @@ struct ele* insk(struct ele* head,struct ele* rear,int element,int k)
                pos=pos->next;
                i++;
             }
-            if(i==k && pos==NULL)
+            if(i0==k && pos==NULL)
             {
                 rear=insrea(head,rear,element);
                 return head;
