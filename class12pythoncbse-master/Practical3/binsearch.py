@@ -21,7 +21,7 @@ class binsearch:
             if item==array[mid]:
                 return mid
             elif array[mid]<item:
-                lasst=mid-1
+                last=mid-1
             else:
                 beg=mid+1
         else:
