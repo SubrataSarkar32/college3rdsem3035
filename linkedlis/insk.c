@@ -27,16 +27,20 @@ struct ele* insk(struct ele* head,struct ele* rear,int element,int k)
         else
         {
             pos=head;
-            i=0;
+            i=1;
             while(i<k && pos!=NULL)
             {
                pos=pos->next;
                i++;
             }
-            if(i0==k && pos==NULL)
+            if(i==k && pos==NULL)
             {
-                rear=insrea(head,rear,element);
-                return head;
+                elem* pos2=(elem*)malloc(sizeof(elem));
+                pos->next=pos2;
+                pos2->next=NULL;
+                pos2->p=element;
+                rear=pos;
+                return pos;
             }
             else
             {

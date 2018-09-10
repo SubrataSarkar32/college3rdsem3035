@@ -27,6 +27,7 @@ int main()
                 printf("Enter element: ");
 		    	scanf("%d",&element);
 		    	head=insbeg(head,rear,element);
+		    	printf("%p %p\n",rear,head );
             }
             else if(choice1==2)
             {
@@ -40,7 +41,7 @@ int main()
             {
                 printf("Enter element: ");
 	    		scanf("%d",&element);
-		    	rear=insrea(head,rear,element);
+		    	rear=insrea(head, rear,element);
             }
             else
             {

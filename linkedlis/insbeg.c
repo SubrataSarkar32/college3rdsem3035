@@ -20,6 +20,8 @@ struct ele* insbeg(struct ele* head,struct ele* rear,int element)
             pos->next=NULL;
             pos->p=element;
             rear=pos;
+            head=pos;
+            head=rear;
             return pos;
         }
         else

@@ -16,7 +16,7 @@ struct ele* insrea(struct ele* head,struct ele* rear,int element)
     }
     else
     {
-        if(rear==NULL)
+        if(rear==NULL && head==NULL)
         {
             pos->next=NULL;
             pos->p=element;
@@ -26,10 +26,13 @@ struct ele* insrea(struct ele* head,struct ele* rear,int element)
         }
         else
         {
-            rear->next=pos;
-            pos->next=NULL;
-            pos->p=element;
-            rear=pos;
+            printf("%p\n",rear);
+            elem* pos2=(elem*)malloc(sizeof(elem));
+                pos->next=pos2;
+                pos2->next=NULL;
+                pos2->p=element;
+                rear=pos;
+                return pos;
             return pos;
         }
     }

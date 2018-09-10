@@ -37,27 +37,38 @@
 	<stdio.h>
 	<stdlib.h>
 
-1533222776 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\delk.c
+1535981667 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\delk.c
 	<stdio.h>
 	<stdlib.h>
 	"linkedl.h"
 
 1533222757 f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\linkedl.h
 
-1533222802 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\delrea.c
+1534219817 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\delrea.c
 	<stdio.h>
 	<stdlib.h>
 
-1533222814 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\insbeg.c
+1535985308 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\insbeg.c
 	<stdio.h>
 	<stdlib.h>
 
-1533223133 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\insrea.c
+1535983121 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\insrea.c
 	<stdio.h>
 	<stdlib.h>
 
-1534219146 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\insk.c
+1535981446 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\insk.c
 	<stdio.h>
 	<stdlib.h>
 	"linkedl.h"
+
+1535985224 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedl.h"
+	<stdlib.h>
+
+1535985170 source:f:\text\gcect\3rd sem\college3rdsem3035\linkedlis\onefile.c
+	<stdlib.h>
+	"linkedl.h"
+	<stdlib.h>
 

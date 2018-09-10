@@ -20,13 +20,14 @@ struct ele* delk(struct ele* head,struct ele* rear,int k)
         else
         {
             pos=head;
-            i=0;
+            i=1;
             while(i<k && pos!=NULL)
             {
                pos=pos->next;
                i++;
             }
-            if(i==k-1 && pos==NULL)
+            printf("%p",pos);
+            if(i==k)
             {
                 rear=delrea(head,rear);
                 return head;
@@ -34,7 +35,7 @@ struct ele* delk(struct ele* head,struct ele* rear,int k)
             else
             {
                 elem* pos1=pos->next;
-                struct ele* pos2=pos1->next;
+                elem* pos2=pos1->next;
                 pos->next=pos2;
                 free(pos1);
                 return head;
